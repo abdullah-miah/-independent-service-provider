@@ -1,10 +1,15 @@
-# Getting Started with Create React App
+# Live Website Link
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Available Scripts
+  * React.js'
+  * firebase
+  * bootstrap
+  * react router
+  * css
+  
 
-In the project directory, you can run:
 
 ### `npm start`
 
