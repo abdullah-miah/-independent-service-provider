@@ -1,6 +1,6 @@
 # Live Website Link
 
-https://funny-rabanadas-6b8791.netlify.app/signup
+https://funny-rabanadas-6b8791.netlify.app/
 # Available Scripts
   * React.js'
   * firebase
