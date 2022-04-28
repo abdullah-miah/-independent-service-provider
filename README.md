@@ -1,7 +1,6 @@
 # Live Website Link
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+https://funny-rabanadas-6b8791.netlify.app/signup
 # Available Scripts
   * React.js'
   * firebase
